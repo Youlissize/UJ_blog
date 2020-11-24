@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ulysse Jobard incredible Blog</title>
-    <link>https://athul.github.io/archie/posts/</link>
+    <link>https://youlissize.github.io/blog/posts/</link>
     <description>Recent content in Posts on Ulysse Jobard incredible Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://athul.github.io/archie/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://youlissize.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creation of this blog</title>
-      <link>https://athul.github.io/archie/posts/art1/</link>
+      <link>https://youlissize.github.io/blog/posts/art1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://athul.github.io/archie/posts/art1/</guid>
+      <guid>https://youlissize.github.io/blog/posts/art1/</guid>
       <description>As proposed, I used hugo for creating this site. I juste sad some small issues at the beginning because of a bad config file, but once this was right, it seems really straightforward and easy to use. Really easier to code all by yourself, fortunately!</description>
     </item>
     
     <item>
       <title>Hyper Article</title>
-      <link>https://athul.github.io/archie/posts/art2/</link>
+      <link>https://youlissize.github.io/blog/posts/art2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://athul.github.io/archie/posts/art2/</guid>
+      <guid>https://youlissize.github.io/blog/posts/art2/</guid>
       <description>We all gonna die</description>
     </item>
     
