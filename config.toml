@@ -1,5 +1,5 @@
 #baseURL = "https://athul.github.io/archie/"
-baseURL= "https://youlissize.github.io/blog/"
+baseURL= "https://youlissize.github.io/"
 languageCode = "en-us"
 title = "Ulysse Jobard incredible Blog"
 theme="archie"
