@@ -2,7 +2,7 @@
 baseURL= "https://youlissize.github.io/blog"
 languageCode = "en-us"
 title = "Ulysse Jobard incredible Blog"
-theme="archie"
+theme = "archie"
 publishDir = "docs"
 #copyright = "© Athul"
 # Code Highlight
@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 paginate=3 # articles per page
 
 [params]
-	mode="auto" # color-mode → light,dark or auto
+	mode="dark" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "... ... ...    . . .   ... ... ..."
 
