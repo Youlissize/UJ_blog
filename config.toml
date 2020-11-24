@@ -2,6 +2,7 @@ baseURL = "https://athul.github.io/archie/"
 languageCode = "en-us"
 title = "Ulysse Jobard incredible Blog"
 theme="archie"
+publishDir = "docs"
 #copyright = "© Athul"
 # Code Highlight
 pygmentsstyle = "monokai"
