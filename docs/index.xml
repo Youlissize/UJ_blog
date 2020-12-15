@@ -6,26 +6,49 @@
     <description>Recent content on Ulysse Jobard incredible Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 0023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://youlissize.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creation of this blog</title>
-      <link>https://youlissize.github.io/blog/posts/art1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://youlissize.github.io/blog/posts/creation/</link>
+      <pubDate>Sun, 01 Jan 0023 00:00:00 +0000</pubDate>
       
-      <guid>https://youlissize.github.io/blog/posts/art1/</guid>
-      <description>As proposed, I used hugo for creating this site. I juste sad some small issues at the beginning because of a bad config file, but once this was right, it seems really straightforward and easy to use. Really easier to code all by yourself, fortunately!</description>
+      <guid>https://youlissize.github.io/blog/posts/creation/</guid>
+      <description>As proposed, I used hugo for creating this site. I juste sad some small issues at the beginning because of a bad config file, but once this was right, it seems really straightforward and easy to use. Really easier to code all by yourself, fortunately!
+But when I tried to upload my page on github, the Hugo theme has vanished, and my blog was looking really bad. It was really long to me to fix this little error.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Unity</title>
+      <link>https://youlissize.github.io/blog/posts/rollerball/</link>
+      <pubDate>Sat, 01 Jan 0022 00:00:00 +0000</pubDate>
+      
+      <guid>https://youlissize.github.io/blog/posts/rollerball/</guid>
+      <description>I actually didn&amp;rsquo;t have much trouble about this lab, everything was working pretty quickly when I was following the instructions. I found this introduction interessting, and the result is satisfying! There is really few lines of code, and the game is quite fun to play (at least for 30 seconds).
+The only little customisation I made is probably the amazing color gradient I put on the winning message, as we can see below.</description>
     </item>
     
     <item>
       <title>Hyper Article</title>
-      <link>https://youlissize.github.io/blog/posts/art2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://youlissize.github.io/blog/posts/hyperarticle/</link>
+      <pubDate>Wed, 01 Jan 0020 00:00:00 +0000</pubDate>
       
-      <guid>https://youlissize.github.io/blog/posts/art2/</guid>
-      <description>We all gonna die</description>
+      <guid>https://youlissize.github.io/blog/posts/hyperarticle/</guid>
+      <description>In such a world, where mixed reality has become the only reality for the majority of the population, we could expect a lot of terrifying scenarios.
+The main issue I could see is the power that is given to people who are controlling what is displayed. With such a powerful tool, it is incredibly easy to manipulate all the population as you wish. You could for example create restricted area where the image will become fuzzy if you go in, and you could also remove all sign of propestation against the technology itself.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Article</title>
+      <link>https://youlissize.github.io/blog/posts/ultimatearticle/</link>
+      <pubDate>Tue, 01 Jan 0019 00:00:00 +0000</pubDate>
+      
+      <guid>https://youlissize.github.io/blog/posts/ultimatearticle/</guid>
+      <description>This ultimate display which could be able to create anything hardly fits in any previous notions of virtual/reality distinctions.
+It is not the real world as we know it, because it is created by a computer, so ther is something &amp;ldquo;virtual&amp;rdquo; inside. But is it virtual? No, it&amp;rsquo;s true matter, it exists, in front of our eyes, it&amp;rsquo;s not only a mental construction of our brain like with a screen. So it must be between virtual and real?</description>
     </item>
     
   </channel>

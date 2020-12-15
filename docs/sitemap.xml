@@ -3,27 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://youlissize.github.io/blog/categories/</loc>
+    <loc>https://youlissize.github.io/blog/posts/creation/</loc>
+    <lastmod>0023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youlissize.github.io/blog/posts/art1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://youlissize.github.io/blog/posts/art2/</loc>
+    <loc>https://youlissize.github.io/blog/tags/lab/</loc>
+    <lastmod>0023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://youlissize.github.io/blog/posts/</loc>
+    <lastmod>0023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://youlissize.github.io/blog/tags/</loc>
+    <lastmod>0023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://youlissize.github.io/blog/</loc>
+    <lastmod>0023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youlissize.github.io/blog/posts/rollerball/</loc>
+    <lastmod>0022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youlissize.github.io/blog/tags/homework/</loc>
+    <lastmod>0020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youlissize.github.io/blog/posts/hyperarticle/</loc>
+    <lastmod>0020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youlissize.github.io/blog/posts/ultimatearticle/</loc>
+    <lastmod>0019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://youlissize.github.io/blog/categories/</loc>
   </url>
   
 </urlset>
