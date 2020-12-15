@@ -3,7 +3,7 @@ baseURL= "https://youlissize.github.io/blog/"
 languageCode = "en-us"
 title = "Ulysse Jobard incredible Blog"
 theme = "archie"
-#publishDir = "docs"
+publishDir = "docs"
 #copyright = "© Athul"
 # Code Highlight
 pygmentsstyle = "monokai"
