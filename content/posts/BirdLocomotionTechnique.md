@@ -1,7 +1,7 @@
 ---
 title: Gliding Bird Locomotion Technique
 description: My implementation to fly like a bird in VR
-date : 0018-01-01
+date : 0016-01-01
 
 draft: false
 tags: [homework] [labs]
