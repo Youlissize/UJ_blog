@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>homework on Ulysse Jobard incredible Blog</title>
+    <title>Homework on Ulysse Jobard incredible Blog</title>
     <link>https://youlissize.github.io/blog/tags/homework/</link>
-    <description>Recent content in homework on Ulysse Jobard incredible Blog</description>
+    <description>Recent content in Homework on Ulysse Jobard incredible Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 0020 00:00:00 +0000</lastBuildDate>
@@ -39,6 +39,17 @@ It is not the real world as we know it, because it is created by a computer, so 
       <guid>https://youlissize.github.io/blog/posts/3locomotion/</guid>
       <description>Idea 1 : Gliding like an Eagle Why : Who never dream to fly like a bird? But flapping wings must be so tiring&amp;hellip; The solution? Gliding of course!
 How : Each arm will of course represent a wing, so the controllers will give the etremity of each wings, and their orientation represent the wing orientation. So pointing the controller forward represent a &amp;ldquo;flat&amp;rdquo; wing, which is the most common position, and you can then decide to point up or down for rotate your wings.</description>
+    </item>
+    
+    <item>
+      <title>Gliding Bird Locomotion Technique</title>
+      <link>https://youlissize.github.io/blog/posts/birdlocomotiontechnique/</link>
+      <pubDate>Fri, 01 Jan 0016 00:00:00 +0000</pubDate>
+      
+      <guid>https://youlissize.github.io/blog/posts/birdlocomotiontechnique/</guid>
+      <description>In Theory : The main goal was to feel like this :
+Interactions These are the 4 main interaction you can have : - Going Up/Down : Point Up/Down controllers - Roll : Just move your arms - Dive : Fold your arms - Slown down when messing up : When your wings are not aligned with your velocity
+In Practice : Controls First of all we need a way to control our bird.</description>
     </item>
     
   </channel>
